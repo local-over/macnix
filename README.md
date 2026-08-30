@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+##NOTE: The project is currently not working and will NOT be completed any soon for some person problems 
 ## What is MacNix?
 
 **MacNix** is a purpose-built Linux distribution that runs macOS as a virtual machine with near-native performance — including full GPU acceleration.
